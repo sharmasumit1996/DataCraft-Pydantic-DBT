@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: pdf_contents
+    database: pc_dbt_db
+    schema: public
+    tables:
+      - name: pdf_contents
+      - name: pdf_metadata

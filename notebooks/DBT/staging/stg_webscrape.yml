@@ -1,0 +1,32 @@
+
+version: 2
+
+models:
+  - name: stg_webscrape
+    columns: 
+      - name: NameofTopic
+        tests:
+          - not_null
+      - name: Title
+        tests:
+          - not_null
+      - name: level
+        tests:
+          - accepted_values:
+              values: ['Level I', 'Level II', 'Level III']
+      - name: year
+        tests:
+          - accepted_values:
+              values: [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+      - name: learningoutcomes
+        tests:
+          - not_null
+      - name: linktosummary
+        tests:
+          - not_null
+      - name: linktopdf
+        tests:
+          - not_null
+      - name: introduction
+        tests:
+          - not_null

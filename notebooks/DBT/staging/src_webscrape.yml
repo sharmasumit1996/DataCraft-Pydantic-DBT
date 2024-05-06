@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: webscrape_data
+    database: pc_dbt_db
+    schema: public
+    tables:
+      - name: cfa_courses

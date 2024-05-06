@@ -1,0 +1,6 @@
+pydantic
+lxml
+beautifulsoup4
+pandas
+pytest
+sql-alchemy

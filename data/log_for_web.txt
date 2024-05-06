@@ -1,0 +1,98 @@
+100
+100
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 2 validation errors for Article
+year
+  Value error, invalid literal for int() with base 10: "Doesn't" [type=value_error, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/value_error
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 2 validation errors for Article
+year
+  Value error, invalid literal for int() with base 10: "Doesn't" [type=value_error, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/value_error
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 2 validation errors for Article
+year
+  Value error, invalid literal for int() with base 10: "Doesn't" [type=value_error, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/value_error
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 2 validation errors for Article
+year
+  Value error, invalid literal for int() with base 10: "Doesn't" [type=value_error, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/value_error
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+Error when get data: 2 validation errors for Article
+year
+  Value error, invalid literal for int() with base 10: "Doesn't" [type=value_error, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/value_error
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
+24
+Error when get data: 1 validation error for Article
+full_links
+  Input should be a valid URL, relative URL without a base [type=url_parsing, input_value="Doesn't Exist", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.6/v/url_parsing
