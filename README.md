@@ -1,4 +1,4 @@
-# Assignment 3: Python Classes and DBT Integration for Data Management
+# Python Classes and DBT Integration for Data Management
 
 ## Overview
 
@@ -168,12 +168,3 @@ For detailed instructions on using DBT, refer to the [DBT Tutorial](https://docs
 - Pydantic Documentation
 - DBT Documentation
 - Snowflake Documentation
-
-## Team
-
-| Name         | NUID          |
-| ------------ | ------------- |
-| Dongyu Liu   |  002837324    |
-| Ekta Bhatia  |  002767736    |
-| Parth Kalani |  002766306    |
-| Sumit Sharma |  002778911    |
